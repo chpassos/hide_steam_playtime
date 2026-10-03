@@ -1,6 +1,6 @@
 # Hide Steam Playtime (Millennium theme)
 
-This is a minimalistic Millennium theme with a single purpose: **hiding your playtime from yourself.**
+This is a minimalistic, fairly simple Millennium theme with a single purpose: **hiding your playtime from yourself.**
 
 ## Why?
 Steam's playtime tracker is a fun feature, but it can often trigger non-healthy habits and unnecessary anxiety. Some discussions about this can be found [here](https://www.reddit.com/r/Steam/comments/1d8fduz/does_anybody_else_get_stressed_over_playtime_and/), [here](https://www.reddit.com/r/Steam/comments/3dh9p7/steam_has_made_me_weirdly_obsessive_about_the/) and [here](https://steamcommunity.com/discussions/forum/0/2963922521556467578/).
