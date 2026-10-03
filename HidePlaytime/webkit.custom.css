@@ -1,0 +1,15 @@
+/* Hides your total recent playtime in the last 2 weeks*/
+div[class="recentgame_quicklinks recentgame_recentplaytime"] {
+    display: none !important;
+}
+
+/* Hides the playtime in your most recent 3 games */
+div[class="game_info_details"] {
+    display: none !important;
+}
+
+/* Hides the links that leads to your game statistics, which can also be used to check game's playtimes */
+div[class="recentgame_quicklinks"] {
+    display: none !important;
+}
+

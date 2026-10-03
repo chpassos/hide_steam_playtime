@@ -1,0 +1,16 @@
+{
+  "name": "HidePlaytime",
+  "author": "chpassos",
+  "description": "This theme hides your playtime in various ways",
+  "version": "1.0",
+  "UseDefaultPatches": true,
+  "Steam-WebKit": "webkit.custom.css",
+  "Elements": [
+    {
+      "MatchRegexString": "^steam$",
+      "TargetCss": "libraryroot.custom.css"
+    }
+  ]
+
+
+}

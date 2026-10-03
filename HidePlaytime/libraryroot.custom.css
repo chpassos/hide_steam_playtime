@@ -1,0 +1,10 @@
+/* Hides playtime from your library */
+div[class*="GameStat"][class*="Playtime"] {
+    display: none !important;
+}
+
+/* Hides playtime from activity feed from library */
+div[class*="ReviewContainer"] {
+    display: none !important;
+}
+
