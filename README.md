@@ -3,8 +3,9 @@
 This is a minimalistic, fairly simple Millennium theme with a single purpose: **hiding your playtime from yourself.**
 
 ## Why?
-Steam's playtime tracker is a fun feature, but it can often trigger non-healthy habits and unnecessary anxiety. Some discussions about this can be found [here](https://www.reddit.com/r/Steam/comments/1d8fduz/does_anybody_else_get_stressed_over_playtime_and/), [here](https://www.reddit.com/r/Steam/comments/3dh9p7/steam_has_made_me_weirdly_obsessive_about_the/) and [here](https://steamcommunity.com/discussions/forum/0/2963922521556467578/).
-To summarize, people can use total playtime to:
+Steam's playtime tracker is a fun feature, but it can often trigger non-healthy habits and unnecessary anxiety. Some discussions about this can be found [here](https://www.reddit.com/r/Steam/comments/1d8fduz/does_anybody_else_get_stressed_over_playtime_and/), [here](https://www.reddit.com/r/Steam/comments/3dh9p7/steam_has_made_me_weirdly_obsessive_about_the/) and [here](https://steamcommunity.com/discussions/forum/0/2963922521556467578/).  
+
+To summarize, people can use total playtime to:  
 - Try to determine a game's "fair price" based how many hours you played, rather than the quality of the experience (particularly guilty here)
 - Feeling a constant need to increase your playtime just because you paid for the game
 - Feeling of guilt and/or shame due to thousand of hours spent in games
@@ -24,7 +25,7 @@ Maybe someone else find this useful as well :)
 <img width="992" height="290" alt="image" src="https://github.com/user-attachments/assets/ac6709ca-d87d-4fc3-aa75-3fcc47b5edb5" />
 
 ## Manual Installation
-1. Install Millennium.
+1. Install [Millennium](https://steambrew.app).
 2. Download this repository
 3. Move `HidePlaytime` folder onto `\Steam\millennium\themes\`
 4. On Millennium settings, add this theme
