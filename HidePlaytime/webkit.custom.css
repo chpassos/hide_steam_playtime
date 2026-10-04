@@ -13,3 +13,10 @@ div[class="recentgame_quicklinks"] {
     display: none !important;
 }
 
+
+/* Hides playtime in the game-specific achievements tab */
+div[id="topSummaryLeft"] {
+    display: none !important;
+}
+
+
